@@ -84,7 +84,7 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 **T:** Submit my CV on time for review  
 **A:** Followed submission instructions and made small improvements based on feedback  
 **R:** My CV is now ready for real-world job applications
----
+
 
 
 ## <span style="color:pink">How to Reach Me</span>
