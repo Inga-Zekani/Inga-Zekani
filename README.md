@@ -12,7 +12,7 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 - Completed the Career Development module and quiz
 - Reflected on long-term career goals and values
 - Learned how to set SMART goals
-[Click to View CV Submission](./Career%20Development%201.png)
+[Click to View Career Counselling](./Career%20Development%201.png)
 
 ### Reflection (STAR)
 **S:** I needed to figure out where I see myself in the future  
@@ -29,7 +29,7 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 - Top interests: **Artistic**, **Realistic**
 - Identified transferable and adaptive skills
 
-[Click to View CV Submission](./Skills%20and%20Interests.png)
+[Click to View Skills and Interests](./Skills%20and%20Interests.png)
 
 ### Reflection (STAR)
 **S:** I wasn’t always sure what kind of work I enjoyed  
@@ -46,7 +46,7 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 - I prefer expressive, creative work and hands-on, practical tasks
 - I do not enjoy investigative or overly theoretical work
 
-[Click to View CV Submission](./Personality%20Assessment.png)
+[Click to View Personality Assessment](./Personality%20Assessment.png)
 
 ### Reflection (STAR)
 **S:** I wanted to better understand what work environments suit me  
