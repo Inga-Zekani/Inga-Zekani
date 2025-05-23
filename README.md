@@ -84,6 +84,14 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 **T:** Submit my CV on time for review  
 **A:** Followed submission instructions and made small improvements based on feedback  
 **R:** My CV is now ready for real-world job applications
+---
+
+
+## <span style="color:pink">How to Reach Me</span>
+
+📬 I'd love to connect! Feel free to reach out via LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Inga%20Zekani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/inga-zekani-360320278/)
 
 
 ---
