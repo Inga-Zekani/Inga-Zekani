@@ -1,132 +1,180 @@
-## Hi there 👋
+# 👋 Hi there
 
-# My Digital Work Readiness Portfolio
+# 🎓 My Digital Work Readiness Portfolio
 
-Welcome to my digital portfolio for the Work Readiness Training. This repository includes the evidence and reflections for each section of the course, based on what I learned and how I grew throughout the process.
+Welcome to my **Digital Work Readiness Portfolio**!  
+This repository contains all my evidence and reflections from the **Work Readiness Training**, showcasing my growth in professional, communication, and employability skills.
 
 ---
 
-## <span style="color:pink">1. Career Counselling</span>
+## 💼 1. Career Counselling
 
 ### Evidence
-- Completed the Career Development module and quiz
-- Reflected on long-term career goals and values
-- Learned how to set SMART goals
-  
-[Click to View Career Counselling](./Career%20Development%201.png)
+- Completed the Career Development module and quiz  
+- Reflected on long-term career goals and values  
+- Learned how to set SMART goals  
+
+📎 [View Career Counselling Evidence](./Career%20Development%201.png)
 
 ### Reflection (STAR)
 **S:** I needed to figure out where I see myself in the future  
 **T:** Set a clear, actionable plan for my career  
-**A:** I explored my strengths, clarified my goals, and set SMART targets  
+**A:** Explored my strengths, clarified my goals, and set SMART targets  
 **R:** I now have a career development plan that aligns with my personality and values
 
 ---
 
-## <span style="color:pink">2. Skills and Interests</span>
+## 🌟 2. Skills and Interests
 
 ### Evidence
-- Completed the Skills & Interests quiz
-- Top interests: **Artistic**, **Realistic**
-- Identified transferable and adaptive skills
+- Completed the Skills & Interests quiz  
+- Top interests: **Artistic**, **Realistic**  
+- Identified transferable and adaptive skills  
 
-[Click to View Skills and Interests](./Skills%20and%20Interests.png)
+📎 [View Skills and Interests Evidence](./Skills%20and%20Interests.png)
 
 ### Reflection (STAR)
 **S:** I wasn’t always sure what kind of work I enjoyed  
 **T:** Discover my natural skills and interests  
-**A:** Took the quiz and evaluated past achievements and tasks I enjoy  
+**A:** Took the quiz and reflected on my achievements and enjoyable tasks  
 **R:** I realized I thrive in creative and hands-on environments, and I’m more confident when choosing roles that match those strengths
 
 ---
 
-## <span style="color:pink">3. Personality Assessment</span>
+## 🧠 3. Personality Assessment
 
 ### Evidence
-- My personality type is a mix of **Artistic** and **Realistic**
-- I prefer expressive, creative work and hands-on, practical tasks
-- I do not enjoy investigative or overly theoretical work
+- My personality type: **Artistic** + **Realistic**  
+- I prefer expressive, creative, and hands-on work  
+- I do not enjoy investigative or overly theoretical work  
 
-[Click to View Personality Assessment](./Personality%20Assessment.png)
+📎 [View Personality Assessment Evidence](./Personality%20Assessment.png)
 
 ### Reflection (STAR)
-**S:** I wanted to better understand what work environments suit me  
+**S:** I wanted to understand what work environments suit me best  
 **T:** Match my personality to careers that fit  
-**A:** Completed the personality assessment and analyzed my preferences  
-**R:** I’m now focused on roles that allow me to create and build, rather than ones that are research-heavy or theory-driven
+**A:** Completed the personality assessment and reviewed my preferences  
+**R:** I’m now focused on roles that allow me to create and build, rather than research-heavy or theory-driven work
 
 ---
 
-## <span style="color:pink">4. Create a CV</span>
+## 📝 4. Create a CV
 
 ### Evidence
-- I designed my CV using **Canva**, a platform that allowed me to highlight my creative and professional strengths  
-- My CV includes education, experience, skills, and personal highlights  
-- 📄 [Click here to view my CV](./221043756%20CV.pdf)
+- Designed my CV using **Canva** to showcase my creative and professional strengths  
+- Included education, experience, skills, and highlights  
+
+📄 [View My CV](./221043756%20CV.pdf)
 
 ### Reflection (STAR)
-**S:** I needed a CV that looked professional but still reflected my creative personality  
+**S:** I needed a professional yet creative CV  
 **T:** Build a strong, attractive, and modern CV  
-**A:** Used Canva to create a clean layout, added key information, and exported it as a PDF  
-**R:** I now have a CV I’m proud to use in future applications
+**A:** Used Canva to design a clean layout and include all key sections  
+**R:** I now have a CV I’m proud to use for real job applications
 
 ---
 
-## <span style="color:pink">5. CV Submission</span>
+## 📤 5. CV Submission
 
 ### Evidence
-- I submitted my CV through the official platform (Blackboard) as required
+- Submitted my CV through the official Blackboard platform  
 
-[Click to View CV Submission](./CV%20submission.png)
+📎 [View CV Submission Evidence](./CV%20submission.png)
 
 ### Reflection (STAR)
-**S:** I needed to ensure my CV met industry standards  
-**T:** Submit my CV on time for review  
-**A:** Followed submission instructions and made small improvements based on feedback  
-**R:** My CV is now ready for real-world job applications
-
+**S:** I wanted to ensure my CV met all requirements  
+**T:** Submit my CV on time and receive feedback  
+**A:** Followed submission instructions and refined based on feedback  
+**R:** My CV is now complete and industry-ready
 
 ---
 
-## <span style="color:pink">6. Business Communication</span>
+## 💬 6. Business Communication
 
 ### Evidence
-- Completed the Business Communication module
-- Practiced writing professional emails, memos, and reports
-- Improved clarity and tone in workplace communication
+- Completed lessons on professional communication styles  
+- Practiced writing clear, concise, and formal business emails  
 
-[Click to View Business Communication](./Business%20Communication.png)
+📎 [View Business Communication Evidence](./Business%20Communication.png)
 
 ### Reflection (STAR)
-**S:** I needed to ensure my CV met industry standards  
-**T:** Submit my CV on time for review  
-**A:** Followed submission instructions and made small improvements based on feedback  
-**R:** My CV is now ready for real-world job applications
+**S:** I needed to improve how I communicate in professional settings  
+**T:** Learn how to write and speak effectively for the workplace  
+**A:** Practiced business writing and verbal communication techniques  
+**R:** I now communicate more clearly and confidently with professionals
 
-## <span style="color:pink">How to Reach Me</span>
+---
 
-📬 I'd love to connect! Feel free to reach out via LinkedIn:
+## 🎤 7. Interview Skills
 
+### Evidence
+- Learned key interview preparation strategies and common questions  
+
+📎 [View Interview Skills Evidence](./Interview%20Skills.png)
+
+### Reflection (STAR)
+**S:** I was unsure how to perform well in interviews  
+**T:** Learn how to prepare and present myself confidently  
+**A:** Practiced answering common questions and using STAR responses  
+**R:** I now feel ready and confident for any job interview
+
+---
+
+## 🤝 8. Mock Interview
+
+### Evidence
+- Participated in a mock interview session  
+- Received constructive feedback from the facilitator  
+
+📎 [View Mock Interview Evidence](./Mock%20Interview.png)
+
+### Reflection (STAR)
+**S:** I wanted to test my interview skills in a real-life scenario  
+**T:** Gain experience through a simulated interview  
+**A:** Prepared thoroughly, practiced professionalism, and accepted feedback  
+**R:** I learned how to manage nerves and improve my answers for real interviews
+
+---
+
+## 🌐 9. Professional Networking
+
+### Evidence
+- Created and updated my LinkedIn profile  
+- Connected with professionals in my field  
+
+📎 [View LinkedIn Profile](https://www.linkedin.com/in/inga-zekani-360320278/)
+
+### Reflection (STAR)
+**S:** I needed to expand my professional connections  
+**T:** Build a strong LinkedIn profile and start networking  
+**A:** Followed networking tips and engaged with relevant content  
+**R:** I’ve grown my professional network and built an online presence
+
+---
+
+## 🏢 10. Workplace Etiquette
+
+### Evidence
+- Learned about professional behavior, time management, and teamwork  
+
+📎 [View Workplace Etiquette Evidence](./Workplace%20Etiquette.png)
+
+### Reflection (STAR)
+**S:** I wanted to understand workplace professionalism  
+**T:** Learn how to act appropriately in different work environments  
+**A:** Studied professional etiquette and practiced respectful communication  
+**R:** I’m now more aware of how to present myself and interact at work
+
+---
+
+## 📬 How to Reach Me
+
+Let’s connect professionally!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Inga%20Zekani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/inga-zekani-360320278/)
 
-
 ---
 
-## Thank You
+## 🙏 Thank You
 
-This portfolio showcases my growth and readiness for the workplace. Thank you for reviewing my journey.
-
-<!--
-**Inga-Zekani/Inga-Zekani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This portfolio represents my personal and professional growth throughout the **Work Readiness Training**.  
+Thank you for reviewing my journey and progress.
