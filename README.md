@@ -95,13 +95,13 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 - Practiced writing professional emails, memos, and reports
 - Improved clarity and tone in workplace communication
 
-[Click to View Business Communication](./Business%Communication.png)
+[Click to View Business Communication](./Business%20Communication.png)
 
 ### Reflection (STAR)
-**S:** I needed to learn how to communicate effectively in a professional environment
-**T:** Improve my formal writing and presentation skills 
-**A:** Practiced structured email writing, report formatting, and active listening 
-**R:** I can now communicate more clearly and confidently in academic and professional settings
+**S:** I needed to ensure my CV met industry standards  
+**T:** Submit my CV on time for review  
+**A:** Followed submission instructions and made small improvements based on feedback  
+**R:** My CV is now ready for real-world job applications
 
 ## <span style="color:pink">How to Reach Me</span>
 
