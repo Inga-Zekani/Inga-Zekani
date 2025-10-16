@@ -123,8 +123,9 @@ This repository contains all my evidence and reflections from the **Work Readine
 ## 🤝 8. Mock Interview
 
 ### Evidence
-- Participated in a mock interview session  
-- Received constructive feedback from the facilitator  
+- I recorded a mock interview video
+
+🎥 [Watch My Mock Interview Video](https://www.canva.com/design/DAGiXhuGZug/5JiXkrlxWQAVpwGD4rYw3A/edit?utm_content=DAGiXhuGZug&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 📎 [View Mock Interview Evidence](./Mock%20Interview.png)
 
