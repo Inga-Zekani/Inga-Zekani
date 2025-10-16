@@ -110,7 +110,7 @@ This repository contains all my evidence and reflections from the **Work Readine
 ### Evidence
 - Learned key interview preparation strategies and common questions  
 
-📎 [View Interview Skills Evidence](./Interview%20Skills.png)
+📎 [View Interview Skills Evidence](./Interview%20skills.png)
 
 ### Reflection (STAR)
 **S:** I was unsure how to perform well in interviews  
@@ -143,6 +143,7 @@ This repository contains all my evidence and reflections from the **Work Readine
 - Connected with professionals in my field  
 
 📎 [View LinkedIn Profile](https://www.linkedin.com/in/inga-zekani-360320278/)
+📎 [View Mock Professional Networking](./Professional%20Networking.png)
 
 ### Reflection (STAR)
 **S:** I needed to expand my professional connections  
@@ -157,7 +158,7 @@ This repository contains all my evidence and reflections from the **Work Readine
 ### Evidence
 - Learned about professional behavior, time management, and teamwork  
 
-📎 [View Workplace Etiquette Evidence](./Workplace%20Etiquette.png)
+📎 [View Workplace Etiquette Evidence](./Work%20Etiquette.png)
 
 ### Reflection (STAR)
 **S:** I wanted to understand workplace professionalism  
