@@ -111,7 +111,7 @@ This repository contains all my evidence and reflections from the **Work Readine
 - Learned key interview preparation strategies and common questions
 - Completed a LinkedIn Learning course on interview preparation
  
-🎓 [View LinkedIn Course Certificate](Interview Skills LinkedIn.pdf)
+🎓 [View Interview Skills LinkedIn.pdf](https://github.com/Inga-Zekani/Inga-Zekani/blob/main/Interview%20Skills%20LinkedIn.pdf))
 📎 [View Interview Skills Evidence](./Interview%20skills.png)
 
 ### Reflection (STAR)
