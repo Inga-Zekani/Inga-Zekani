@@ -108,8 +108,10 @@ This repository contains all my evidence and reflections from the **Work Readine
 ## 🎤 7. Interview Skills
 
 ### Evidence
-- Learned key interview preparation strategies and common questions  
-
+- Learned key interview preparation strategies and common questions
+- Completed a LinkedIn Learning course on interview preparation
+ 
+🎓 [View LinkedIn Course Certificate](./)
 📎 [View Interview Skills Evidence](./Interview%20skills.png)
 
 ### Reflection (STAR)
