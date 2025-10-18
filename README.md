@@ -144,7 +144,7 @@ This repository contains all my evidence and reflections from the **Work Readine
 - Connected with professionals in my field  
 
 📎 [View LinkedIn Profile](https://www.linkedin.com/in/inga-zekani-360320278/)
-📎 [View Mock Professional Networking](./Professional%20Networking.png)
+📎 [View Mock Professional Networking Evidence](./Professional%20Networking.png)
 
 ### Reflection (STAR)
 **S:** I needed to expand my professional connections  
@@ -157,9 +157,11 @@ This repository contains all my evidence and reflections from the **Work Readine
 ## 🏢 10. Workplace Etiquette
 
 ### Evidence
-- Learned about professional behavior, time management, and teamwork  
+- Learned about professional behavior, time management, and teamwork
+- I created timesheets of the activities i did daily at work 
 
-📎 [View Workplace Etiquette Evidence](./Work%20Etiquette.png)
+📎 [View Workplace Etiquette Evidence](./Work%20Etiquette.png) 
+📎 [View Timesheet Activities Evidence](./Timesheet%20Activities.png)
 
 ### Reflection (STAR)
 **S:** I wanted to understand workplace professionalism  
