@@ -13,7 +13,7 @@ This repository contains all my evidence and reflections from the **Work Readine
 - Completed the Career Development module and quiz  
 - Reflected on long-term career goals and values  
 - Learned how to set SMART goals  
-\t
+
 📎 [View Career Counselling Evidence](./Career%20Development%201.png)
 
 ### Reflection (STAR)
@@ -96,7 +96,7 @@ This repository contains all my evidence and reflections from the **Work Readine
 - Practiced writing clear, concise, and formal business emails  
 
 📎 [View Business Communication Evidence](./Business%20Communication.png)
-
+📎 [View Formal Business Email Evidence](./Business%20Email.png)
 ### Reflection (STAR)
 **S:** I needed to improve how I communicate in professional settings  
 **T:** Learn how to write and speak effectively for the workplace  
